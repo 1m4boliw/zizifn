@@ -6,7 +6,7 @@ import { connect } from 'cloudflare:sockets';
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = '0ce558ae-5ee6-43d7-894a-32346e36f30d';
 
-let proxyIP = 'turk.radicalization.ir';// OR use 'nima.nscl.ir      Find proxyIP: https://github.com/NiREvil/vless/blob/main/sub/ProxyIP.md
+let proxyIP = 'xmlcfer.ydns.eu';// OR use 'nima.nscl.ir      Find proxyIP: https://github.com/NiREvil/vless/blob/main/sub/ProxyIP.md
 
 
 if (!isValidUUID(userID)) {
