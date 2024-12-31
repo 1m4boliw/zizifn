@@ -1,4 +1,4 @@
-// <!--GAMFC-->Last update 2024-12-26 13:26:40 UTC - We are all REvil, version base on commit 4de2ba85ce92fe4ca09ed7a441e9c149653787e0<!--GAMFC-END-->.
+// <!--GAMFC-->Last update 2024-12-31 05:07:17 UTC - We are all REvil, version base on commit ce87f87aa833ed414a067756bacbe2e7fd4ab6b6<!--GAMFC-END-->.
 // @ts-ignore
 import { connect } from 'cloudflare:sockets';
 
