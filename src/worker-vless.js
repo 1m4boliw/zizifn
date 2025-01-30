@@ -23,7 +23,7 @@ const ENCODED = {
 let userCode = '10e894da-61b1-4998-ac2b-e9ccb6af9d30';
 
 // to find proxyIP: https://github.com/NiREvil/vless/blob/main/sub/ProxyIP.md
-let proxyIP = 'turk.radicalization.ir'; // Or use 'nima.nscl.ir 
+let proxyIP = '0x1s.ydns.eu'; // Or use 'nima.nscl.ir 
 
 if (!isValidUserCode(userCode)) {
   throw new Error('user code is not valid');
